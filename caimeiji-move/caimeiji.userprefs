@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\guntong.js">
+    <Files>
+      <File FileName="Assets\yeyazhijia.js" Line="4" Column="21" />
+      <File FileName="Assets\caimeiji.js" Line="1" Column="1" />
+      <File FileName="Assets\yaobi.js" Line="1" Column="1" />
+      <File FileName="Assets\guntong.js" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
